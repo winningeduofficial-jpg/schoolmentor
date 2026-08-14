@@ -8,7 +8,7 @@ export default function Home() {
       <main className="min-h-screen bg-[#F8F7F3] pt-[84px]">
         <section className="flex min-h-[calc(100vh-84px)] items-center justify-center px-4">
           <img
-            src="/images/schoolmentor-coming-soon.png"
+           src="/images/schoolmentor-coming-soon.png?v=2"
             alt="나의 입시파트너 스쿨멘토 Coming Soon"
             className="max-h-[calc(100vh-110px)] w-auto max-w-full object-contain"
           />
